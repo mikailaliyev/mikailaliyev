@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a backend project using FastAPI
+I am currently working on a backend project using FastAPI, a Python web framework for building APIs.
 
 
 ## 🌐 Socials:
