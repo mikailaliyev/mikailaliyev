@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a fullstack app using MERN stack.
+Working on my portfolio using AstroJS😍
 
 
 ## 🌐 Socials:
