@@ -10,7 +10,7 @@ Working on my portfolio using AstroJS😍
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-ruby-one.vercel.app/api?username=mikailaliyev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikailaliyev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikailaliyev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-ruby-one.app/api/top-langs/?username=mikailaliyev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mikailaliyev&limit=1000000&theme=dark&combine_all_yearly_contributions=true)
